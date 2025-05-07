@@ -22,7 +22,7 @@ Este espaço é dedicado ao desenvolvimento e à manutenção de sistemas intern
 
 Contribuições são bem-vindas!
 
-Caso queira relatar um problema, sugerir uma melhoria ou colaborar com o código, siga os passos abaixo:
+Caso queira relatar um problema ou sugerir uma melhoria com o código, siga os passos abaixo:
 
 1. Acesse o repositório específico relacionado à sua sugestão ou problema.
 2. Vá até a aba **Issues**.
