@@ -13,7 +13,7 @@ Este espaço é dedicado ao desenvolvimento e à manutenção de sistemas intern
 ### 3. [NewProtocolApp](https://github.com/Ordem-dos-Advogado-de-Santa-Catarina/NewProtocolApp)
 **Descrição:** Aplicativo complementar ao NovoProtocolo, desenvolvido em JavaScript, proporcionando acesso móvel e facilitado aos serviços do sistema.
 
-### 4. [Pagina para Demais Subseções sem Site Interno](https://github.com/Ordem-dos-Advogado-de-Santa-Catarina/404)
+### 4. [Pagina para Demais Subseções sem Site Interno](https://github.com/Ordem-dos-Advogado-de-Santa-Catarina/Sites-Subs)
 **Descrição:** Template de site institucional padronizado para subseções da OAB/SC, com suporte a publicação de notícias, eventos, comunicados e outras informações locais.
 
 ---
