@@ -2,7 +2,7 @@
 
 Este espaço é dedicado ao desenvolvimento e à manutenção de sistemas internos da OAB/SC, sob a responsabilidade do **Departamento de Tecnologia e Inovação**. Com o objetivo é promover soluções digitais que aprimorem os serviços oferecidos à advocacia catarinense e à sociedade.
 
-## Repositórios Ativos e Publicos
+## Repositórios Ativos e Públicos
 
 ### 1. [PDF2EXCEL](https://github.com/Ordem-dos-Advogado-de-Santa-Catarina/PDF2EXCEL)
 **Descrição:** Ferramenta para extrair informações específicas de boletos não pesquisáveis, convertendo-os para planilhas Excel. Desenvolvida em Python, facilita a análise e o gerenciamento de dados financeiros.
@@ -13,8 +13,14 @@ Este espaço é dedicado ao desenvolvimento e à manutenção de sistemas intern
 ### 3. [NewProtocolApp](https://github.com/Ordem-dos-Advogado-de-Santa-Catarina/NewProtocolApp)
 **Descrição:** Aplicativo complementar ao NovoProtocolo, desenvolvido em JavaScript, proporcionando acesso móvel e facilitado aos serviços do sistema.
 
-### 4. [Pagina para Demais Subseções sem Site Interno](https://github.com/Ordem-dos-Advogado-de-Santa-Catarina/Sites-Subs)
+### 4. [Página para Demais Subseções sem Site Interno (privado 🔒)](https://github.com/Ordem-dos-Advogado-de-Santa-Catarina/Sites-Subs)
 **Descrição:** Template de site institucional padronizado para subseções da OAB/SC, com suporte a publicação de notícias, eventos, comunicados e outras informações locais.
+
+### 5. [ScriptRelatorioCelesc](https://github.com/Ordem-dos-Advogado-de-Santa-Catarina/ScriptRelatorioCelesc)
+**Descrição:** Script automatizado para geração de relatórios com base nos dados fornecidos pela Celesc. Facilita a conferência, análise e organização de informações referentes ao consumo de energia elétrica, otimizando o controle e acompanhamento por parte das subseções.
+
+
+
 
 ---
 
